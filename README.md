@@ -1,6 +1,6 @@
 # Caliandra
 
-## História, memória e experimentação dos serviços bancários remotos no Brasil, do home banking aos aplicativos móveis.
+## Memória, preservação e reconstrução do banking digital brasileiro.
 
 O projeto trata-se de uma reconstrução independente, sem vínculo com nenhum banco ou instituição financeira.
 
